@@ -6,7 +6,6 @@ import { MdLock } from 'react-icons/md';
 import $ from 'jquery';
 import Loader from "./Loader/Loader";
 
-// "homepage": "https://reim-weib-hr.github.io/redesigned-funicular",
 
 const App = ()=>{
 
